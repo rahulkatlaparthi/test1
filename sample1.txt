@@ -1,3 +1,7 @@
 Rahul
 
+<<<<<<< HEAD
 hello
+=======
+Hai rahul
+>>>>>>> 9185786 (Added Hai Rahul)
